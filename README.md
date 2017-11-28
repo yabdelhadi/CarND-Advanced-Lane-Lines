@@ -15,12 +15,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/undistort_output.png "Undistorted"
-[image2]: ./examples/img_undistort_output.png "Undistorted"
+[image1]: ./examples/undistort_output.JPG "Undistorted"
+[image2]: ./examples/img_undistort_output.JPG "Undistorted"
 [image3]: ./examples/binary_combo_example.jpg "Binary Example"
 [image4]: ./examples/warped_straight_lines.jpg "Warp Example"
 [image5]: ./examples/color_fit_lines.jpg "Fit Visual"
-[image6]: ./examples/skip_color_fit_lines.jpg "Fit Visual"
+[image6]: ./examples/skip_color_fit_lines.JPG "Fit Visual"
 [image7]: ./examples/output_straight_lines1.jpg "Output"
 [image8]: ./examples/output_test1.jpg "Output"
 [video1]: ./project_video.mp4 "Video"
